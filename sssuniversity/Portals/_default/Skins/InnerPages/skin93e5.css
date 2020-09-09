@@ -2,37 +2,37 @@
 
 @font-face {
     font-family: 'MyriadProRegular';
-    src: url('http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.eot');
-    src: url('http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.eot?#iefix') format('embedded-opentype'),
-         url('http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.woff') format('woff'),
-         url('http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.ttf') format('truetype'),
-         url('http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.svg#MyriadProRegular') format('svg');
+    src: url('http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.eot');
+    src: url('http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.woff') format('woff'),
+         url('http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.ttf') format('truetype'),
+         url('http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/font/myriadpe-webfont.svg#MyriadProRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 p{ padding:0px; margin:0px;}
-.top-bg{background:url("http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/top_bg.gif") repeat-x left top #FFF ;}
+.top-bg{background:url("http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/top_bg.gif") repeat-x left top #FFF ;}
 .lbl_wdt{width:140px;}
 .lbl_btn{ background:#023761; border:solid 1px #023761; height:22px;}
 .wht_txt{ font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#FFF; font-weight:bold;}
 a.home_btn,
 .home_btn
-{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/home_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#dfff5e; padding:0px 0px 0px 16px; text-decoration:none;}
+{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/home_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#dfff5e; padding:0px 0px 0px 16px; text-decoration:none;}
 a.home_btn:hover{ color:#fff; text-decoration:none;}
-.home_btn_over{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/home_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; padding:0px 0px 0px 16px; text-decoration:none;}
+.home_btn_over{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/home_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; padding:0px 0px 0px 16px; text-decoration:none;}
 a.login_btn
 { font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#dfff5e; padding:0px 0px 0px 16px; text-decoration:none;}
 a.cts_btn,
 .cts_btn
-{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/contact_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#dfff5e; padding:0px 0px 0px 16px; text-decoration:none;}
+{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/contact_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#dfff5e; padding:0px 0px 0px 16px; text-decoration:none;}
 a.cts_btn:hover{ color:#fff; text-decoration:none;}
-.cts_btn_over{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/contact_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; padding:0px 0px 0px 16px; text-decoration:none;}
+.cts_btn_over{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/contact_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; padding:0px 0px 0px 16px; text-decoration:none;}
 
 a.stm_btn,
 .stm_btn
-{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/sitemap_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#dfff5e; padding:0px 0px 0px 16px; text-decoration:none;}
+{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/sitemap_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#dfff5e; padding:0px 0px 0px 16px; text-decoration:none;}
 a.stm_btn:hover{ color:#fff; text-decoration:none;}
-.stm_btn_over{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/sitemap_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; padding:0px 0px 0px 16px; text-decoration:none;}
+.stm_btn_over{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/sitemap_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; padding:0px 0px 0px 16px; text-decoration:none;}
 
 
 
@@ -43,10 +43,10 @@ a.stm_btn:hover{ color:#fff; text-decoration:none;}
 
 
 /*box styles*/
-.box1-topctr{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/box1-centertop.gif) repeat-x left top;}
-.box1-btmctr{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/box1-btmcenter.gif) repeat-x left top;}
-.box1-lftmd{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/box1-midleft.gif) repeat-y left top;}
-.box1-rhtmd{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/box1-midright.gif) repeat-y left top;}
+.box1-topctr{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/box1-centertop.gif) repeat-x left top;}
+.box1-btmctr{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/box1-btmcenter.gif) repeat-x left top;}
+.box1-lftmd{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/box1-midleft.gif) repeat-y left top;}
+.box1-rhtmd{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/box1-midright.gif) repeat-y left top;}
 .sty_txt2{ font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#94a3b1;}
 /*.pad1{ padding:4px 0px 0px 0px;}*/
 .pad2{ padding:6px 6px 0px 6px;}
@@ -71,11 +71,11 @@ a.bult_link1:hover{ color:#A51C30; text-decoration:none;}
 a.more:hover{ color:#000; text-decoration:none;}
 .more1{ font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#666; text-decoration:none; font-weight:bold;}
 a.more1:hover{ color:#096aa4; text-decoration:none;}
-.blue_strip{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/blue-strip_bg.gif) left top repeat-x;}
-.blue_strip1{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/blue-strip1.gif) 185px top no-repeat; height:34px; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#FFF; font-weight:bold; padding:8px 0px 0px 0px; display:block;}
-.dot_line{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/dot_line.gif) left bottom repeat-x;}
-.vert_line{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/color_dot.gif) center top repeat-y;}
-.hori_line{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/color_dot.gif) left center repeat-x;}
+.blue_strip{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/blue-strip_bg.gif) left top repeat-x;}
+.blue_strip1{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/blue-strip1.gif) 185px top no-repeat; height:34px; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#FFF; font-weight:bold; padding:8px 0px 0px 0px; display:block;}
+.dot_line{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/dot_line.gif) left bottom repeat-x;}
+.vert_line{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/color_dot.gif) center top repeat-y;}
+.hori_line{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/color_dot.gif) left center repeat-x;}
 .head_1{ font-family:Georgia, "Times New Roman", Times, serif; font-size:11px; color:#646464; font-weight:normal; border-bottom:5px solid #646464; letter-spacing:2px; padding-bottom:0px; margin:0px 0px; width:165px;}
 .head_2{ font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; font-weight:bold; padding-top:8px;}
 .head_3{ color:#464646; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; font-weight:normal; margin:0; padding:0px 6px 3px 0px;}
@@ -120,7 +120,7 @@ a.breadcrumb_text:hover{color:#786B22; text-decoration:none;}
 {
 	/*cursor:pointer;
 	font-size: 11px; */
-	background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/nav_bg.png) repeat-x left top;
+	background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/nav_bg.png) repeat-x left top;
 	width:965px;
 	height:24px;
 	border-left:1px solid #f2f2f2;
@@ -213,7 +213,7 @@ a.breadcrumb_text:hover{color:#786B22; text-decoration:none;}
 }
 
 .ModuleTitle_MenuItemSel td, .ModuleTitle_MenuItemSel .ModuleTitle_MenuIcon{
-	background: #CE0D0D url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/sub_menu_strip.gif) repeat-x top left;
+	background: #CE0D0D url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/sub_menu_strip.gif) repeat-x top left;
 	color: #fff;
 }
 
@@ -235,7 +235,7 @@ a.search-style:hover{ color:#FFF; text-decoration:none;}
 
 .imgbrd{ border:solid 2px #CCC; padding:5px; display:block;}
 
-.bult_link2{ background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/bullet_3.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#096aa4; font-weight:bold; padding:0px 0px 0px 14px; text-decoration:none;}
+.bult_link2{ background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/bullet_3.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#096aa4; font-weight:bold; padding:0px 0px 0px 14px; text-decoration:none;}
 a.bult_link2:hover{ color:#000; text-decoration:none;}
 
 
@@ -246,7 +246,7 @@ a.bult_link2:hover{ color:#000; text-decoration:none;}
 a.lgn_sty{font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#dfff5e; text-decoration:none; display:block; font-weight:normal;}
 a.lgn_sty:hover{ color:#fff; text-decoration:none;}
 
-.dwn_sty{background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/download_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; text-decoration:none; display:block; padding:5px 0px 4px 22px;}
+.dwn_sty{background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/download_icon.gif) left center no-repeat; font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#fff; text-decoration:none; display:block; padding:5px 0px 4px 22px;}
 a.dwn_sty:hover{ color:#023761; text-decoration:none;}
 
 .sty_link3{ font-family:Verdana, Geneva, sans-serif; font-size:100%; color:#096aa4; text-decoration:underline;}
@@ -425,7 +425,7 @@ border-bottom:1px dotted #A51C30;
 	font-size:11px;
 	line-height:15px;
 	list-style:none;
-	background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/bullet_4.gif) no-repeat left 5px;
+	background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/bullet_4.gif) no-repeat left 5px;
 }
 #content_container_landing ul li a,
 .right_nav ul li a
@@ -490,7 +490,7 @@ textarea:focus, input:focus{
 input[type="text"], input[type="password"] { outline: none; }
 .search_box
 {
-	background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/search_box.png) no-repeat left top;
+	background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/search_box.png) no-repeat left top;
 	width:177px;
 	height:22px;
 	line-height:22px;
@@ -508,15 +508,15 @@ p.txt,.txt
 #dnn_dnnBREADCRUMB_lblBreadCrumb{ font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#000;}
 
 #content_container ul{ margin:0px 0px 0px 16px; padding:0px;}
-#content_container ul li{ list-style:none; background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/square_dot.gif) left 6px no-repeat; padding-left:12px;}
+#content_container ul li{ list-style:none; background:url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/square_dot.gif) left 6px no-repeat; padding-left:12px;}
 #content_container ol{ margin:0px 0px 0px 32px; padding:0px;}
 #content_container ol li{ padding-left:0px;}
 
 #content_container ul.steps li{ list-style:none; padding-left:12px;}
 
-.pink_bg{padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; background-image: url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/mid_bg.png); background-attachment: initial; background-origin: initial; background-clip: initial; background-color: initial; width: 165px; background-position: 0% 0%; background-repeat: no-repeat repeat;}
+.pink_bg{padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; background-image: url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/mid_bg.png); background-attachment: initial; background-origin: initial; background-clip: initial; background-color: initial; width: 165px; background-position: 0% 0%; background-repeat: no-repeat repeat;}
 
-.blue_bg{padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; background-image: url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/_default/Skins/InnerPages/images/blue_mid_bg.png); background-attachment: initial; background-origin: initial; background-clip: initial; background-color: initial; width: 165px; background-position: 0% 0%; background-repeat: no-repeat repeat;}
+.blue_bg{padding-top: 6px; padding-right: 6px; padding-bottom: 6px; padding-left: 6px; background-image: url(http://sssihl.edu.in/sssuniversity/Portals/_default/Skins/InnerPages/images/blue_mid_bg.png); background-attachment: initial; background-origin: initial; background-clip: initial; background-color: initial; width: 165px; background-position: 0% 0%; background-repeat: no-repeat repeat;}
 
 .gold_bg{padding: 6px; width: 165px; background:#d2cba5;}
 

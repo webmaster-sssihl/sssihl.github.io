@@ -4,7 +4,7 @@
 .right { float:right;}
 .img-left {float: left; margin-right: 10px;} 
 .img-right {float: right; margin-left: 10px;}
-.dnnsprite { background-image: url('http://sssuniversity.smart-thought.com/sssuniversity/Portals/0/images/AsideIcons.png'); background-color: transparent; background-repeat: no-repeat; }
+.dnnsprite { background-image: url('http://sssihl.edu.in/sssuniversity/Portals/0/images/AsideIcons.png'); background-color: transparent; background-repeat: no-repeat; }
 .Community { background-position: -249px -5px; }
 .Conferences { background-position: -188px -5px; }
 .Manuals { background-position: -127px -5px; }
@@ -28,7 +28,7 @@ hr.tour { border-style: solid; border-top-width: 0; color: #ccc; margin-top: 1em
 #Footer #dnn_Footer_LeftPane {float: left;margin: 0 20px 0 0;width: 430px;}
 #Footer #dnn_Footer_RightPane {float: left;width: 510px;}
 
-#Sponsors img{width:118px;height:58px;border:solid 1px #000;margin:0 7px 7px 0;background:url(http://sssuniversity.smart-thought.com/sssuniversity/Portals/0/images/Logos.jpg) no-repeat;}
+#Sponsors img{width:118px;height:58px;border:solid 1px #000;margin:0 7px 7px 0;background:url(http://sssihl.edu.in/sssuniversity/Portals/0/images/Logos.jpg) no-repeat;}
 #Sponsors .aspnet img{background-position:0 0;}
 #Sponsors .maxasp img{background-position:-118px 0;}
 #Sponsors .telerik img{background-position:-236px 0;}
@@ -51,8 +51,8 @@ hr.tour { border-style: solid; border-top-width: 0; color: #ccc; margin-top: 1em
 
 /* Home page */
 /* Header Banner*/
-.bannerShadow {padding-bottom: 34px; background:url(http://sssuniversity.smart-thought.com/Portals/0/images/Slide-Shadow.png) no-repeat 0 bottom;}
-	.header-banner { background-image: url("http://sssuniversity.smart-thought.com/Portals/0/images/header-bg.jpg"); background-repeat: repeat-x; background-color:#830c11; min-height:200px; color:#FFF;}
+.bannerShadow {padding-bottom: 34px; background:url(http://sssihl.edu.in/Portals/0/images/Slide-Shadow.png) no-repeat 0 bottom;}
+	.header-banner { background-image: url("http://sssihl.edu.in/Portals/0/images/header-bg.jpg"); background-repeat: repeat-x; background-color:#830c11; min-height:200px; color:#FFF;}
 		.header-banner .header-banner-image { float:left; width:280px; margin-left:50px; padding-top:13px;}
 		.header-banner .header-banner-text { float:right; width:550px; margin-right:55px;}
 			.header-banner .header-banner-text { font-size:16px; line-height:19px; padding-top:10px;}
@@ -66,9 +66,9 @@ hr.tour { border-style: solid; border-top-width: 0; color: #ccc; margin-top: 1em
 
 /*  home page sidebar styles*/
 #RightLinks .last { background:none;}
-#RightLinks li.icoAbout img { background-image: url("http://sssuniversity.smart-thought.com/sssuniversity/Portals/0/images/bike-about-icon.png"); background-repeat: no-repeat;}
-#RightLinks li.icoBike img { background-image: url("http://sssuniversity.smart-thought.com/sssuniversity/Portals/0/images/bike-icon.png"); background-repeat: no-repeat;}
-#RightLinks li.icoNews img { background-image: url("http://sssuniversity.smart-thought.com/sssuniversity/Portals/0/images/bike-news-icon.png"); background-repeat: no-repeat;}
+#RightLinks li.icoAbout img { background-image: url("http://sssihl.edu.in/sssuniversity/Portals/0/images/bike-about-icon.png"); background-repeat: no-repeat;}
+#RightLinks li.icoBike img { background-image: url("http://sssihl.edu.in/sssuniversity/Portals/0/images/bike-icon.png"); background-repeat: no-repeat;}
+#RightLinks li.icoNews img { background-image: url("http://sssihl.edu.in/sssuniversity/Portals/0/images/bike-news-icon.png"); background-repeat: no-repeat;}
 
 /* Subpage sidebar navigation on */
 .Normal ul.sidebar-nav li { line-height:200%;}

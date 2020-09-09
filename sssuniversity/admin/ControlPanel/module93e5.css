@@ -4,17 +4,17 @@
 		a.dnnCPHMessagednnLeft, a.dnnCPHMessagednnLeft img{display:block !important;}
 		.dnnControlPanel .dnnFormItem label, .dnnControlPanel .dnnFormItem .dnnFormLabel{margin-top:0;font-size:11px;}
 		.cbcpFiCol a, .cpcbAdmin a{display:block;line-height:1.8;min-height:1.8em;padding:0 15px 0 20px;font-weight:bold;float:left;}
-			span.cpEditCurrentPage a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_edittab_16.gif) no-repeat left;}
-			span.cpAddNewPage a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_addtab_16.gif) no-repeat left;}
-			span.cpCopyPage a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_copytab_16.gif) no-repeat left;}
-			a.cpDeletePage{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_deletetab_16.gif) no-repeat left;}
-				a.cpDeletePage.dnnDisabled{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_deletetab_bw_16.gif) no-repeat left;color:#ccc;cursor:not-allowed;text-decoration:none;border-collapse:collapse;}
-			span.cpImportPage a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_importtab_16.gif) no-repeat left;}
-			span.cpExportPage a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_exporttab_16.gif) no-repeat left;}
-			a.cpCopyPermissions{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_copytab_16.gif) no-repeat left;}
-				a.cpCopyPermissions.dnnDisabled{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_copytab_bw_16.gif) no-repeat left;color:#ccc;cursor:not-allowed;text-decoration:none;border-collapse:collapse;}
-			a.cpCopyDesign{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_copytab_16.gif) no-repeat left;}
-				a.cpCopyDesign.dnnDisabled{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_copytab_bw_16.gif) no-repeat left;color:#ccc;cursor:not-allowed;text-decoration:none;border-collapse:collapse;}
+			span.cpEditCurrentPage a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_edittab_16.gif) no-repeat left;}
+			span.cpAddNewPage a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_addtab_16.gif) no-repeat left;}
+			span.cpCopyPage a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_copytab_16.gif) no-repeat left;}
+			a.cpDeletePage{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_deletetab_16.gif) no-repeat left;}
+				a.cpDeletePage.dnnDisabled{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_deletetab_bw_16.gif) no-repeat left;color:#ccc;cursor:not-allowed;text-decoration:none;border-collapse:collapse;}
+			span.cpImportPage a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_importtab_16.gif) no-repeat left;}
+			span.cpExportPage a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_exporttab_16.gif) no-repeat left;}
+			a.cpCopyPermissions{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_copytab_16.gif) no-repeat left;}
+				a.cpCopyPermissions.dnnDisabled{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_copytab_bw_16.gif) no-repeat left;color:#ccc;cursor:not-allowed;text-decoration:none;border-collapse:collapse;}
+			a.cpCopyDesign{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_copytab_16.gif) no-repeat left;}
+				a.cpCopyDesign.dnnDisabled{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_copytab_bw_16.gif) no-repeat left;color:#ccc;cursor:not-allowed;text-decoration:none;border-collapse:collapse;}
 		.dnnadminmega .megaborder .cpcbCurrentPage label, .dnnadminmega .megaborder .cpcbCurrentPage a, #dnnOtherTools .cpcbAdmin a{font-weight:normal}
 		#dnnCPWrap a{font-size:11px;}
 	#dnnCurrentPage .megaborder{width:540px;}
@@ -34,16 +34,16 @@
 			#dnnCurrentPage .cbcpPageCopy, #dnnCurrentPage .cbcpPageActions, .cpcbAdmin .dnnClear{padding-bottom:10px;}
 			.cpanel_right #dnnCPWrapRight, .cpanel_right #dnnCPWrapLeft, .cpanel_right .dnnControlPanel {background-image: none;}
 					
-		span.cpNewUser a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_add_users_16.gif) no-repeat left;}
-		span.cpNewRole a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/icon_securityroles_16px.gif) no-repeat left;}
-		span.cpUploadFile a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/action_up.gif) no-repeat left;}
-		span.cpWebServerManager a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/icon_webservers_16px.gif) no-repeat left;}
-		span.cpSupportTickets a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/icon_mytickets_16px.gif) no-repeat left;}
-		span.cpImpersonateUser a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/icon_usersSwitcher_16px.gif) no-repeat left;}
-		span.cpIntegrityChecker a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/icon_appintegrity_16px.gif) no-repeat left;}
-		a.cpRecycleApp {background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_recycleapp_16px.gif) no-repeat left;}
-		a.cpClearCache {background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_clearcache_16px.gif) no-repeat left;}
-		span.cpPageHelp a{background:url(http://sssuniversity.smart-thought.com/sssuniversity/admin/ControlPanel/images/iconbar_help_16.gif) no-repeat left;}
+		span.cpNewUser a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_add_users_16.gif) no-repeat left;}
+		span.cpNewRole a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/icon_securityroles_16px.gif) no-repeat left;}
+		span.cpUploadFile a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/action_up.gif) no-repeat left;}
+		span.cpWebServerManager a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/icon_webservers_16px.gif) no-repeat left;}
+		span.cpSupportTickets a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/icon_mytickets_16px.gif) no-repeat left;}
+		span.cpImpersonateUser a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/icon_usersSwitcher_16px.gif) no-repeat left;}
+		span.cpIntegrityChecker a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/icon_appintegrity_16px.gif) no-repeat left;}
+		a.cpRecycleApp {background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_recycleapp_16px.gif) no-repeat left;}
+		a.cpClearCache {background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_clearcache_16px.gif) no-repeat left;}
+		span.cpPageHelp a{background:url(http://sssihl.edu.in/sssuniversity/admin/ControlPanel/images/iconbar_help_16.gif) no-repeat left;}
 	
 		.cpcbAdmin .cbhSwitchSite a {float:none}
 		ul.dnnadminmega {margin:0;padding:5px 0 0 0;}
