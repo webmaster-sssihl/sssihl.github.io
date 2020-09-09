@@ -64,10 +64,10 @@
 //
 //	Configuration
 //
-var fileLoadingImage = "http://dnn.smart-thought.com/Portals/0/JS/loading.gif";	
-	var fileLoadingImage = "http://dnn.smart-thought.com/Portals/0/JS/loading.gif";	
-var fileBottomNavCloseImage = "http://dnn.smart-thought.com/Portals/0/JS/closelabel.gif";
-var fileBottomNavCloseImage = "http://dnn.smart-thought.com/Portals/0/JS/closelabel.gif";
+var fileLoadingImage = "https://www.sssihl.edu.in/Portals/0/JS/loading.gif";	
+		
+var fileBottomNavCloseImage = "https://www.sssihl.edu.in/Portals/0/JS/closelabel.gif";
+
 
 
 var animate = true;	// toggles resizing animations
